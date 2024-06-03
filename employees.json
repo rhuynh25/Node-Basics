@@ -1,0 +1,51 @@
+[
+    {"employeeID": 1, 
+        "name": "JT", 
+        "salary": 123456, 
+        "department": "Engineering"},
+    
+    {"employeeID": 2, 
+        "name": "Ly", 
+        "salary": 123, 
+        "department": "Engineering"},
+    
+    {"employeeID": 3, 
+        "name": "Tra", 
+        "salary": 123456, 
+        "department": "Engineering"},
+    
+    {"employeeID": 4, 
+        "name": "Noe", 
+        "salary": 123456, 
+        "department": "Engineering"},
+    
+    {"employeeID": 5, 
+        "name": "Erica", 
+        "salary": 123456, 
+        "department": "Engineering"},
+    
+    {"employeeID": 6, 
+        "name": "Josh", 
+        "salary": 123456, 
+        "department": "Engineering"},
+    
+    {"employeeID": 7, 
+        "name": "Thai", 
+        "salary": 123456, 
+        "department": "Engineering"},
+    
+    {"employeeID": 8, 
+        "name": "Richard", 
+        "salary": 123456, 
+        "department": "HR"},
+    
+    {"employeeID": 9, 
+        "name": "Alex", 
+        "salary": 123456, 
+        "department": "Sales"},
+    
+    {"employeeID": 10, 
+        "name": "Albert", 
+        "salary": 123456, 
+        "department": "Support"}
+]
